@@ -1,0 +1,44 @@
+body {
+    background-color: darkslateblue;
+    color: aliceblue;
+    font-family: monospace;
+}
+
+#titulo {
+    color: darkseagreen;
+    font-size: 40px;
+}
+
+.container {
+    max-width: 800px;
+    padding: 20px;
+    margin: auto;
+}
+
+.foto {
+    width: 200px;
+    border-radius: 10px;
+}
+
+button {
+    margin-top: 8px;
+    padding: 8px 16px;
+    border: 0;
+    border-radius: 6px;
+    background-color: chartreuse;
+    color: ivory;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+
+#curiosidade {
+    min-height: 1.5rem;
+    font-weight: 600;
+}
+
+body.claro {
+    background-color: azure;
+    color: black;
+
+}
